@@ -226,5 +226,8 @@ main>section{
         margin-top: 20px;
         margin-left: 20px;
     }
+.footer-content{
+    padding: 0px;
+}
     
 }
