@@ -36,6 +36,12 @@
     border-radius: 8px;
     border: none;
 }
+.links{
+    text-decoration: none;
+}
+.links1{
+    text-decoration: none;
+}
 .section-title{
     font-size: 3rem;
     font-weight: 700;
@@ -148,6 +154,27 @@ main>section{
 }
 .sponsor-companies img{
   filter: grayscale(100%);
+}
+
+#enjoy-section-title{
+    border-left: 5px solid #FF900E;
+    padding: 20px;
+}
+.enjoy{
+    gap: 146px;
+}
+.enjoy-card {
+    padding: 30px;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    border-radius: 8px;
+
+}
+.enjoy-card .enjoy-title{
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 /* responsive query */
